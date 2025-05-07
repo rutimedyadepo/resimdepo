@@ -1,3 +1,3 @@
-[sepet](https://github.com/user-attachments/assets/4ec39343-491c-4c11-a6b6-0a0b8143fcfc)
-![kredikarti](https://github.com/user-attachments/assets/6006d7c1-8de7-4676-83b8-16b6c5a7fd3a)
-![iban](https://github.com/user-attachments/assets/cb479eeb-9bdc-40f2-867f-2cde6918e8c0)
+![sepet](https://github.com/user-attachments/assets/83f8d5b1-0fed-41f9-8e1d-c6538585b8be)
+![kredikarti](https://github.com/user-attachments/assets/d6aaa2cb-a85b-4da8-8c06-849057c810d5)
+![iban](https://github.com/user-attachments/assets/08836be3-1f06-4009-9bde-e5519d1600ae)
